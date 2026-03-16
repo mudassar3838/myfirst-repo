@@ -1,1 +1,1 @@
-print("develpor 1 working on speciel project")pw
+print("develpor 1 working on speciel project")
