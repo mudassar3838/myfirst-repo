@@ -1,2 +1,2 @@
-print("HELLOW najam")
+print("HELLOW waqar")
 print("hellow khuzaima")
