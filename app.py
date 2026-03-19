@@ -1,2 +1,2 @@
-print("hello khuzaima")
+print("hello aslam")
 print("pakistan zindabad")
