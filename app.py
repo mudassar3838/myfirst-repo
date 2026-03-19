@@ -1,3 +1,3 @@
 print("hello javed ch")
-print("pakistano zindabad")
+print("pakistan zindabad")
 
